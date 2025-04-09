@@ -3,7 +3,7 @@
 ## How to Run
 
 1. Make sure you have **Python 3** installed.
-2. Download or clone this project folder.
+2. Clone this project repo.
 3. Open your terminal or command prompt.
 4. Navigate to the folder containing `inmemorydb.py`.
 5. Run the code with:
